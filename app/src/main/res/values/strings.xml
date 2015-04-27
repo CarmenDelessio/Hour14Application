@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hour14Application</string>
+
+
+    <string-array name="choices_array">
+        <item>Write Private</item>
+        <item>Write External</item>
+        <item>Write External Public</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_write_private">WritePrivateActivity</string>
+    <string name="title_activity_write_external">WriteExternalActivity</string>
+    <string name="title_activity_write_external_public">WriteExternalPublicActivity</string>
+
+
+    <string name="write_button">Write Text to File</string>
+    <string name="display_contents">File Content will be displayed here</string>
+    <string name="read_button">Read Text from file</string>
+    <string name="delete_file">Delete File</string>
+    <string name="hint_text">Enter data for testing</string>
+</resources>
